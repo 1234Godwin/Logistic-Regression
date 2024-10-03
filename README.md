@@ -3,4 +3,4 @@ A company is faced with incessant attrition of employees despite huge intakes du
 
 
 
-For this project, as a Data scientist, I am required to train and test a Logistic regression model with the available dataset from the company to determine factors leading to attrition of employees.
+For this project, as a Data scientist, I am required to train and test a Logistic regression model with the available dataset from the company to determine factors leading to attrition of employees. The results thus obtained will be used by the management to understand what changes they should make to their workplace, in order to get most of their employees to stay.
